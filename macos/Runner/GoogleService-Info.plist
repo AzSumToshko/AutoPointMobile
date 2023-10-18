@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1004800462593-oo9o21sggt78gmr6lbpqjhe5jvr79msh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1004800462593-oo9o21sggt78gmr6lbpqjhe5jvr79msh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5HI1556wSvuxLwJbYffWzH57h36l7PxE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1004800462593</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.autoPointMobile</string>
+	<key>PROJECT_ID</key>
+	<string>autopoint-4b524</string>
+	<key>STORAGE_BUCKET</key>
+	<string>autopoint-4b524.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1004800462593:ios:f45b96948be98faef35500</string>
+</dict>
+</plist>

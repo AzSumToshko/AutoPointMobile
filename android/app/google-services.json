@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004800462593",
+    "project_id": "autopoint-4b524",
+    "storage_bucket": "autopoint-4b524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004800462593:android:12dd752f75fde483f35500",
+        "android_client_info": {
+          "package_name": "com.example.auto_point_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004800462593-335re5i8blobe7mj4ttb7bdsuq2uo72p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMTCNKVaDDR8FBIxJgxHUOYiwDwJZhxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004800462593-335re5i8blobe7mj4ttb7bdsuq2uo72p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
